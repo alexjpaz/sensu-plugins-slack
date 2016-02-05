@@ -5,6 +5,10 @@ This CHANGELOG follows the format listed at [Keep A Changelog](http://keepachang
 
 ## Unreleased
 
+## [0.1.2] - 2015-01-05
+### Added
+- Added a payload_template to allow for a customized JSON payload
+
 ## [0.1.1] - 2015-12-09
 ### Changed
 - Slack handler posts JSON content type and format to slack.
